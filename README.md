@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/64bde2fd-d959-4565-9ce5-b148fe37c1ba)
 
-##Analisar Dados de Faturamento##
+##Analisar Dados de Faturamento
 Criado script para realizar as seguintes tarefas considerando um vetor de faturamento para 30 dias:
 1. Calcular o menor valor de faturamento em um dia.
 2. Calcular o maior valor de faturamento em um dia.
